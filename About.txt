@@ -1,0 +1,3 @@
+Name - Kavya Lenka
+Course - BSC-Computer Science
+One thing I learned about GitHub - Understanding that a repository is a central location to store all project files and track their history.
